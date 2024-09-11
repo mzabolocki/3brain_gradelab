@@ -38,3 +38,4 @@ build/
 dist/
 todo.txt
 docs/_build/
+.venv/**
