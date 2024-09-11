@@ -1,0 +1,12 @@
+jupyter 
+ipykernel
+numpy==1.24.3
+scipy
+pandas<2.0.0 
+matplotlib
+ipympl
+h5py
+
+spikeinterface==0.101.0  # latest version of spike interface
+docker
+probeinterface
