@@ -39,3 +39,6 @@ dist/
 todo.txt
 docs/_build/
 .venv/**
+
+# Data 
+data/*
