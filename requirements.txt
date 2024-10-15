@@ -6,6 +6,7 @@ pandas<2.0.0
 matplotlib
 ipympl
 h5py
+numba
 
 spikeinterface==0.101.0  # latest version of spike interface
 docker
